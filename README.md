@@ -11,12 +11,12 @@ It contains three types of irises with 50 examples as well as some properties ab
 
 The columns of this data set are:
 
-ID = ID
-Sepal length cm = SepalLengthCm
-Sepal Width cm = SepalWidthCm
-Petal length cm = PetalLengthCm
-Petal Width cm = PetalWidthCm
-Species = Species
+ID = ID,
+Sepal length cm = SepalLengthCm,
+Sepal Width cm = SepalWidthCm,
+Petal length cm = PetalLengthCm,
+Petal Width cm = PetalWidthCm,
+Species = Species,
 
 The purpose of this work is to identify different types of iris based on the length and width of the sepals and the length and width of their petals.
 For this, we first import the desired libraries.
